@@ -1,4 +1,6 @@
 # CSC321 - Neural Network and Machine Learning
+Assignments designed by Professor Roger Grosse
+http://www.cs.toronto.edu/~rgrosse/
 
 # Assignment Overviews
 ## 1. Loss Functions and Backprop

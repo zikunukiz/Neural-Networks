@@ -22,7 +22,7 @@ In thie project, you will work on extending min-char-rnn.py, the vanilla RNN lan
 implementation we covered in tutorial. This was written by Andrej Karpathy. You will experiment
 with the Shakespeare dataset, which is shakespeare.txt in the starter code.
 
-## 4. Tic-Tac-Toe with Policy Gradient
+## 4. Image Completion with Mixture of Bernoulli
 In this assignment, we’ll implement a probabilistic model which we can apply to the task of image
 completion. Basically, we observe the top half of an image of a handwritten digit, and we’d like to
 predict what’s in the bottom half. 
